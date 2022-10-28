@@ -1,0 +1,16 @@
+
+[
+    {
+        "programing" : ["php","javascript","go","scala","fortan","R","mysql","python"],
+        "movies" : ["prestige","inception","interstellar","whiplash","memento","coco","up"],
+        "people" : ["albert einstein","hitchocok","alexander","cleopatra","Mahatma Ghandi"],
+        "countries" : ["syria","palestine","yemen","egypt","bahrain","qatar"]
+    },
+
+    {
+        "programingHint" : ["backEnd developers","frontEnd developer","start","start with 'S'","start with 'F'","one letter","last letter 'L'","incloud 'y'"],
+        "moviesHint" : ["directed by Christopher Nolan","movie full of loop","space","start ith 'w'","time","two letters only","above"],
+        "peopleHint" : ["the theory of everything","  one of the most influential figures in the history ","was a king of the ancient Greek kingdom of Macedon","Queen of the Ptolemaic Kingdom of Egypt","was an Indian lawyer"],
+        "countriesHint" : ["war damage it","occupied ","popular of 'qat' weed","pyramids","start with b","arbic countrie"]
+    }
+]
